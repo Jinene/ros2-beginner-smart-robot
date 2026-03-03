@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>smart_robot</name>
+  <version>0.0.1</version>
+  <description>Beginner ROS2 Smart Robot Project</description>
+
+  <maintainer email="your@email.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_srvs</depend>
+
+</package>
